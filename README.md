@@ -1,6 +1,3 @@
-[![NPM version][npm-image]][npm-url]
-
-
 # Boilerplate - Curso certificação Bootstrap - Modulo 4
 > Atividade de treinamento do [Curso Certificação Bootstrap](http://www.certificacaobootstrap.com.br/)
 
